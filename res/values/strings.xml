@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProxyClient</string>
+    <string name="action_settings">Settings</string>
+    <string name="homescreen_url_field">Homescreen URL Field</string>
+    <string name="homescreen_hint">Enter URL to open</string>
+    <string name="homescreen_button_text">Go</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+
+</resources>
